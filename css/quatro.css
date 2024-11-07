@@ -1,0 +1,60 @@
+body {
+    background-image: url(/img/fundo.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+#Spider {
+    flex-direction: column;
+    line-height: 8px;
+    margin-top: -3%;
+    margin-right: 90%;
+}
+li {
+    display: inline-block;
+    margin-left: 25%;
+    margin-top: 3%;
+}
+
+nav ul li a{
+    color: aqua
+}
+nav ul li a:hover{
+    color: red;
+}
+
+#juntos {
+    text-align: center;
+    color: rgb(192, 222, 248);
+    float: left;
+    margin-left: 12%;
+    margin-top: -2%;
+
+}
+img {
+    width: 27%;
+    margin-left: 12%;
+    margin-top: 2%;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 2%;
+    margin-right: 1%;
+}
+nav ul li a{
+    color: aqua
+}
+nav ul li a:hover{
+    color: red;
+}
+.fms {
+    margin: 80px;
+    margin-top: 10%;    
+}
+.fms {
+    color: rgb(202, 47, 47);
+}
+.fms:hover {
+    color: aqua;
+}

@@ -1,0 +1,24 @@
+body {
+    background-image: url(/img/fundo.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center center;
+}
+
+#Spider {
+    flex-direction: column;
+    line-height: 8px;
+    margin-top: -3%;
+}
+li {
+    display: inline-block;
+    margin-left: 25%;
+    margin-top: 3%;
+}
+
+a{
+    color: aqua
+}
+a:hover{
+    color: red;
+}

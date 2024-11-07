@@ -1,0 +1,18 @@
+body {
+    background-image: url(/img/fundo.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center center;
+
+}
+input {
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+    margin-top: 15px;
+    height: 20px;
+    padding: 15px;
+    border-radius: 20px;
+    border-color: red;
+    margin: 9px;
+}
